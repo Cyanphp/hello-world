@@ -10,3 +10,6 @@ echo "contributions less to more ,current third";
 echo "four";
 //five commit
 echo "five";
+//git config --global user.name 'name' git config --global user.email 'email'
+//six
+echo "six commit";
